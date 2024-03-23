@@ -8,3 +8,6 @@ I then created new features based on these so I didn't have to deal with large t
 
 ### Started to do linear regression and predictions
 Based on simple predictions we can get almost 70% of the predicted value determined by the input. This is very promising for the future of the project and making actual predictions in the future.
+
+### Classifying data using decision tree and SVM
+First I had to classify my Y category which is salary in my case. I chose to categorize it by low medium and high salaries 
