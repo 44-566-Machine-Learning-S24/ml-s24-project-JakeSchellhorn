@@ -10,4 +10,4 @@ I then created new features based on these so I didn't have to deal with large t
 Based on simple predictions we can get almost 70% of the predicted value determined by the input. This is very promising for the future of the project and making actual predictions in the future.
 
 ### Classifying data using decision tree and SVM
-First I had to classify my Y category which is salary in my case. I chose to categorize it by low medium and high salaries 
+First I had to classify my Y category which is salary in my case. I chose to categorize it by low medium and high salaries. I saw overfitting when using the decision tree so that was not very useful but when using the SVM I found the accuracy of my model sitting at around 75%. This is promising to the future of my project but if I were to do this again I would probably add more categories even though it might lower my accuracy.
