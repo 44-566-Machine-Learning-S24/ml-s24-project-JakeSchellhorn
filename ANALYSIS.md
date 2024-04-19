@@ -32,3 +32,10 @@ The final models I used were trying to cluster my data as well as using random f
   <img alt="text" src="visualizations/ensemble.PNG" width="500" height="500"><br>
   <sup>Metrics on the ensemble learning<sup>
 </p>
+
+### Improvemnts
+I think that this project was not a failure but it could have been better. I think some things that could have helped were a larger dataset. A larger data set would have given my models more instances to train on and would have reduced overfitting. Another thing that could have helped was more exploration of the features I did not use and how they would have effected the accuracies of certain models.
+
+* For source code on decision tree and svm click [here](/classification.ipynb)
+* For source code on clustering and random forest click [here](/clustering.ipynb)
+* [Repo]()
