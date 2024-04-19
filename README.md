@@ -2,19 +2,13 @@
 # 44-566 machine-learning project
 Repo for all project documents
 
+# Predicting NBA Players Salaries 
+### An introductory project in Machine Learning
 
-## Changed my project from predicting MLB games to predicting NBA players salaries based on their stats
-### Completed an initial look at the data and found that we can see correlation with points, assists, and rebounds
-I then created new features based on these so I didn't have to deal with large totals of these I created per game stats. It increasses the data's readability and easier to understand. 
+#### Overview
+In this project I try to use a dataset I found online and apply different Machine Learning algorithms to it to see if I can have any success and learn more about data analysis as well as machine learning techniques. My project tries to accomplish predicting NBA players salaries categorically. Once I found the dataset I chose to usse I did some initial explorations and analysis to see if the data was useful. I found my input features and narrowed in on what I wanted to predict and my project was ready for more in depth analysis. I first started wtih linear regression which lead me straight into decision trees and svm models. Decent success was found here and when I finally tried unsupervised models such as random forest I knew my project had not quite panned out the way I was hoping for it to. Overall, the project itself may not have been successful but I learned alot and you can find more on each subject in their respective links below. Enjoy exploring my Machine Learning Project!
 
-
-### Started to do linear regression and predictions
-Based on simple predictions we can get almost 70% of the predicted value determined by the input. This is very promising for the future of the project and making actual predictions in the future.
-
-### Classifying data using decision tree and SVM
-First I had to classify my Y category which is salary in my case. I chose to categorize it by low medium and high salaries. I saw overfitting when using the decision tree so that was not very useful but when using the SVM I found the accuracy of my model sitting at around 75%. This is promising to the future of my project but if I were to do this again I would probably add more categories even though it might lower my accuracy.
-
-### Final Tries and Conclusions
-After all my efforts stated above and moving on to unsupervised models such as random forrests this project has settled into being very unpredictable. Finishing with scores of around 50% I am not happy with it but it has taught me a few things.
-1. Find data with more entries. This dataset only had 199 entries and I think more data and even historical data over the last few years would have been very beneficial to my project.
-2. Outside factors. For this project I only used stats on individual players when there are wya more factors that can play into contract negotiations. A couple examples would be team needs and the athlete's popularity. Both things that the player cannot necessarily control and have a stat on.
+[Finding Data](/RAW_DATA.md)
+[Data exploration](/DATA.md)
+[Analysis](/ANALYSIS.md)
+[Conclusions](/CONCLUSIONS.md)
