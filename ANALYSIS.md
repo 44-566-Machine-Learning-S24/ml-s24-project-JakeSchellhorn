@@ -11,3 +11,4 @@ so I followed with more. Based on simple predictions with points, assists, and r
   <sup>Metrics on multi-feature regression<sup>
 </p>
 
+See linear regression notebook [here](linear_regression.ipynb)
