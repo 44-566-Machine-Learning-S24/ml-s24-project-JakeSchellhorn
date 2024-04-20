@@ -6,5 +6,6 @@ In my initial explorations of the data there were no null values which made the 
   <sup>Correlation graph using Salary, Points, Assists, and rebounds<sup>
 </div>
 
+For more information about later models used click [here](ANALYSIS.md)
 * [Source Code](initial_exploration.ipynb)
 * [Repo]()
